@@ -6,8 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('https://mariahambardzumian/my-wordpress/wp-content/plugins/gallery-videos/JS/fonts/fontawesome-webfont.eot?v=4.6.3');
-  src: url('https://mariahambardzumian/my-wordpress/wp-content/plugins/gallery-videos/JS/fonts/fontawesome-webfont.eot#iefix&v=4.6.3') format('embedded-opentype'), url('https://mariahambardzumian/my-wordpress/wp-content/plugins/gallery-videos/JS/fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('https://mariahambardzumian/my-wordpress/wp-content/plugins/gallery-videos/JS/fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('https://mariahambardzumian/my-wordpress/wp-content/plugins/gallery-videos/JS/fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('https://mariahambardzumian/my-wordpress/wp-content/plugins/gallery-videos/JS/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+  src: url('../JS/fonts/fontawesome-webfont.eot?v=4.6.3');
+  src: url('../JS/fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('../JS/fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('../JS/fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('../JS/fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('../JS/fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
